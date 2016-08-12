@@ -71,6 +71,9 @@ int ldrValThres2;
 int ldrValThres3;
 int ldrValThres4;
 
+/*
+CHANGE THE CAR LENGTH TO SUIT YOUR CAR
+*/
 int carLen = 83;//millimetres
 
 int speedno = 0;
