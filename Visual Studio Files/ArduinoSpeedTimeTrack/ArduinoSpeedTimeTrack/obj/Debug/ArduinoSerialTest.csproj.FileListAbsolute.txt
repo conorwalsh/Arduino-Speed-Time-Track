@@ -1,0 +1,9 @@
+d:\conor\documents\visual studio 2015\Projects\ArduinoSerialTest\ArduinoSerialTest\bin\Debug\ArduinoSerialTest.exe.config
+d:\conor\documents\visual studio 2015\Projects\ArduinoSerialTest\ArduinoSerialTest\obj\Debug\ArduinoSerialTest.csprojResolveAssemblyReference.cache
+d:\conor\documents\visual studio 2015\Projects\ArduinoSerialTest\ArduinoSerialTest\obj\Debug\ArduinoSerialTest.Form1.resources
+d:\conor\documents\visual studio 2015\Projects\ArduinoSerialTest\ArduinoSerialTest\obj\Debug\ArduinoSerialTest.Properties.Resources.resources
+d:\conor\documents\visual studio 2015\Projects\ArduinoSerialTest\ArduinoSerialTest\obj\Debug\ArduinoSerialTest.csproj.GenerateResource.Cache
+d:\conor\documents\visual studio 2015\Projects\ArduinoSerialTest\ArduinoSerialTest\bin\Debug\ArduinoSerialTest.exe
+d:\conor\documents\visual studio 2015\Projects\ArduinoSerialTest\ArduinoSerialTest\bin\Debug\ArduinoSerialTest.pdb
+d:\conor\documents\visual studio 2015\Projects\ArduinoSerialTest\ArduinoSerialTest\obj\Debug\ArduinoSerialTest.exe
+d:\conor\documents\visual studio 2015\Projects\ArduinoSerialTest\ArduinoSerialTest\obj\Debug\ArduinoSerialTest.pdb
