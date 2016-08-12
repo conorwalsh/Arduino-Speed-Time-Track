@@ -38,6 +38,10 @@ Sample Saved Graph Image:<br/>
 Sample Saved Readout Text File:<br/>
 <a href="https://github.com/conorwalsh/Arduino-Speed-Time-Track/blob/master/Utility%20Screenshots/Sample%20Graph%20Readout%20Text%20File.txt" target="_blank">Click for Sample Readout Text File</a>
 
+Credits
+--------
+Thanks to http://playground.arduino.cc/Csharp/SerialCommsCSharp for the code that I based the serial communication code for the C# application on.
+
 License (MIT)
 ------
 Copyright (c) 2016 Conor Walsh 
