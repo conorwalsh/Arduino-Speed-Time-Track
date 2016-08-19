@@ -33,10 +33,13 @@
  
  */
 
+//If you are using this code with a serial monitor and NOT using the utility change this value to 1
 int DEBUG = 0;
 
+//This value chnages to 1 when the program is ready to run DO NOT CHANGE THIS VALUE
 int RTG = 0;
 
+//*******SET VALUES*******//
 int ldr1 = A0;
 int ldr2 = A1;
 int ldr3 = A2;
@@ -64,17 +67,21 @@ int ldrVal2;
 int ldrVal3;
 int ldrVal4;
 
-int thresholdsensitive = 50;
+//Adjust these values to set the sensitivity of the LDRs
 int threshold = 150;
+//Use this value for an LDR if it is less sensitive than the other LDRs
+int thresholdsensitive = 50;
+
 int ldrValThres1;
 int ldrValThres2;
 int ldrValThres3;
 int ldrValThres4;
+//*****SET VALUES END*****//
 
-/*
-CHANGE THE CAR LENGTH TO SUIT YOUR CAR
-*/
-int carLen = 83;//millimetres
+//*******SET CAR LENGTH*******//
+//Set you toy car length in millimetres
+int carLen = 83;
+//*****SET CAR LENGTH END*****//
 
 int speedno = 0;
 
