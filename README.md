@@ -9,7 +9,7 @@ Setup
 ---------
 1. Make the Car Track either according to my instructions or using your own specifications.
 2. Wire the Circuit according to the circuit diagram.
-3. You need to edit <a href="https://github.com/conorwalsh/Arduino-Speed-Time-Track/blob/master/Arduino%20Code/Arduino_Speed_Time_Track/Arduino_Speed_Time_Track.ino#L77">Line 77</a> of the Arduino code with the Length of your toy car. This value is used to calculate the speed of the car. IF THIS VALUE IS NOT CORRECT THE SPEED VALUES WILL BE INCORRECT.
+3. You need to edit <a href="https://github.com/conorwalsh/Arduino-Speed-Time-Track/blob/master/Arduino%20Code/Arduino_Speed_Time_Track/Arduino_Speed_Time_Track.ino#L83">Line 83</a> of the Arduino code with the Length of your toy car. This value is used to calculate the speed of the car. IF THIS VALUE IS NOT CORRECT THE SPEED VALUES WILL BE INCORRECT.
 4. Upload Arduino code to the Arduino.
 5. You can use the prebuilt .exe file in the Ready to go folder, if you want to edit the utility you need to use Visual Studio to edit the Visual Studio Files.
 
